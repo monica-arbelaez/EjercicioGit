@@ -1,4 +1,5 @@
-# EjercicioGit Readme de prueba
+
+asda# EjercicioGit Readme de prueba
 
 <<<<<<< HEAD
 Lina: Esto es una prueba
