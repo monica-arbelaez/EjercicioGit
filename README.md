@@ -1,1 +1,1 @@
-# EjercicioGit Readme de pureba
+# EjercicioGit Readme de prueba
